@@ -1,0 +1,19 @@
+{
+
+    "Api": [
+        {
+            "type": "GET",
+            "name": "Application Category",
+            "url": "https://api.1daycloud.com/v3/application_category",
+            "collection": "ONEDAY CLOUD  PUBLIC API",
+            "category": "Application"
+        },
+        {
+            "type": "GET",
+            "name": "Application Category By ID",
+            "url": "https://api.1daycloud.com/v3/application_category/7",
+            "collection": "ONEDAY CLOUD  PUBLIC API",
+            "category": "Application"
+        }
+    ]
+}
